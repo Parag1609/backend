@@ -1,0 +1,1 @@
+This is a project mainly focused on learning backend 
